@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  padding: 30px;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: purple;
+}
+
+h4 {
+  color: orange;
+}
+
+h5 {
+  color: brown;
+}
+
+h6 {
+  color: red;
+}
+
+p {
+  color: black;
+  font-size: 18px;
+  line-height: 1.5;
+}
